@@ -1,0 +1,8 @@
+studentID,yearJoined,title,first_Name,last_Name,class,phone,email,city,state,country
+1,1998,Ms.,Jones,Doe,python Adv,817-939-8734,jone_doe@gmail.com,Siberia,Russia,Russia
+2,1992,Ms.,Monicah,Njaaga,python Adv,517-939-8734,monicahn@gmail.com,Phoenix,Arizona,USA
+3,2000,Ms.,Lucy,Wagoro,python Adv,717-939-8734,lucym@gmail.com,Kisumu,Kenya,Kenya
+7,1999,Ms.,Sue,Ciro,python Adv,417-939-8734,sueC@gmail.com,Keller,Texas,USA
+4,2020,Mr.,Robert,Maranga,python Adv,617-939-8734,robertm@gmail.com,Los Angeles,California,USA
+5,2021,Ms.,Jackie,Ayegba,python Adv,317-939-8734,JackieA@gmail.com,Atlanta,Geogia,USA
+6,2020,Mr.,Migot,Ndede,python Adv,217-939-8734,migotn@gmail.com,Dos Congoles,Texas,USA
